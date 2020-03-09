@@ -2,8 +2,6 @@
 #include<cassert>
 using namespace std;
 
-bool 
-
 bool test_prim(int n)
 {	//The function checks if a given number is prime.
 
